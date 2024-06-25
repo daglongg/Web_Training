@@ -6,7 +6,7 @@
 * [a-z]+: Một hoặc nhiều ký tự chữ thường (từ a đến z).
 * \.fptu-ech\.io$: Khớp với .fptu-ech.io và kết thúc chuỗi.
 
-==> ``https://example.fptu-ech.io``
+==> ``https://EHC.fptu-ech.io``
 
 ## Bài 2: ^[+-]?((\d+(\.\d*)?)|(\.\d+))$
 
